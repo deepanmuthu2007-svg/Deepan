@@ -1,0 +1,5 @@
+{
+  "name": "Intelligent Event Tracker",
+  "description": "An AI-powered web app for college students to discover events, track participation, and generate event summaries using the Gemini API. It features a futuristic UI and simulates syncing with platforms like Devpost and Novafest.",
+  "requestFramePermissions": []
+}
